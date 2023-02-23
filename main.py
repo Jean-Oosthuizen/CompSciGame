@@ -37,6 +37,6 @@ def makeFrame(level):
     print(frame)
 
 
-#Main
+#Main Program
 level = loadLevel()
 makeFrame(level)
